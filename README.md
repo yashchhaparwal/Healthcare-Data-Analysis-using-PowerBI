@@ -94,9 +94,7 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 <br />
 
-**License**
 
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
 
 <br />
 
